@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anani Samuel</h1>
 <h3 align="center">A passionate UI/UX designer and Software developer</h3>
+<img align="right" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hopeanani&label=Profile%20views&color=0e75b6&style=flat" alt="hopeanani" /> </p>
 
