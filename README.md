@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **graphics and some frontend frameworks.**
 
-- 💬 Ask me about **html, CSS, javascript, react and more.**
+- 💬 Ask me about **html, CSS, javascript, react and more.** 
 
 - 📫 How to reach me **ananisamuelhope@gmail.com**
 
