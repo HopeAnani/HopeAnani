@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hopeanani&label=Profile%20views&color=0e75b6&style=flat" alt="hopeanani" /></p>
 
 
-- 🔭 I’m currently working on **some projects of my own.** 
+- 🔭 I’m currently working on **some projects of my own.**
 
 - 🌱 I’m currently learning **graphics and some frontend frameworks.**
 
