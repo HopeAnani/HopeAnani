@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anani Samuel</h1>
 <h3 align="center">A passionate UI/UX designer and Software developer</h3> 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=hopeanani&label=Profile%20views&color=0e75b6&style=flat" alt="hopeanani" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hopeanani&label=Profile%20views&color=0e75b6&style=flat" alt="hopeanani" /></p> 
 
 
 - 🔭 I’m currently working on **some projects of my own.** 
