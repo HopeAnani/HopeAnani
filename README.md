@@ -32,5 +32,3 @@
 
 <div><img display="flex" src="https://github-readme-stats.vercel.app/api?username=hopeanani&show_icons=true&locale=en" alt="hopeanani" /></div>
 
-<div><img display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=hopeanani&" alt="hopeanani" /></div><hr>
-
