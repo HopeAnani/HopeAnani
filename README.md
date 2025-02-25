@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ananisamuelhope@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/19-A-Ecw7um-VN43ABhrH9Gqjd3L-qtPU/view?usp=sharing)
+- 📄 Know about my experiences (https://ananisamuel.framer.website/)
 
 - ⚡ Fun fact **My perfect day starts with Monday.**
 
